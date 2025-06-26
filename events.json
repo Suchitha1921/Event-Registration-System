@@ -1,0 +1,252 @@
+[
+    {
+        "event_id": "E001",
+        "event_name": "Python Bootcamp",
+        "available_slots": 28
+    },
+    {
+        "event_id": "E002",
+        "event_name": "Data Science Workshop",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E003",
+        "event_name": "AI for Beginners",
+        "available_slots": 40
+    },
+    {
+        "event_id": "E004",
+        "event_name": "Machine Learning 101",
+        "available_slots": 35
+    },
+    {
+        "event_id": "E005",
+        "event_name": "Intro to Deep Learning",
+        "available_slots": 19
+    },
+    {
+        "event_id": "E006",
+        "event_name": "Build with FastAPI",
+        "available_slots": 13
+    },
+    {
+        "event_id": "E007",
+        "event_name": "Django Web Dev",
+        "available_slots": 45
+    },
+    {
+        "event_id": "E008",
+        "event_name": "Flask in Action",
+        "available_slots": 20
+    },
+    {
+        "event_id": "E009",
+        "event_name": "SQL Masterclass",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E010",
+        "event_name": "Power BI Dashboards",
+        "available_slots": 18
+    },
+    {
+        "event_id": "E011",
+        "event_name": "Excel for Analysts",
+        "available_slots": 22
+    },
+    {
+        "event_id": "E012",
+        "event_name": "Python for Finance",
+        "available_slots": 16
+    },
+    {
+        "event_id": "E013",
+        "event_name": "ETL with Python",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E014",
+        "event_name": "Time Series Forecasting",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E015",
+        "event_name": "Big Data Fundamentals",
+        "available_slots": 35
+    },
+    {
+        "event_id": "E016",
+        "event_name": "Apache Spark Crash Course",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E017",
+        "event_name": "Hadoop Hands-On",
+        "available_slots": 28
+    },
+    {
+        "event_id": "E018",
+        "event_name": "Statistics for Data Science",
+        "available_slots": 45
+    },
+    {
+        "event_id": "E019",
+        "event_name": "Tableau Essentials",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E020",
+        "event_name": "Looker Studio Workshop",
+        "available_slots": 20
+    },
+    {
+        "event_id": "E021",
+        "event_name": "Git & GitHub Basics",
+        "available_slots": 50
+    },
+    {
+        "event_id": "E022",
+        "event_name": "Agile & Scrum Primer",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E023",
+        "event_name": "Project Management with Jira",
+        "available_slots": 18
+    },
+    {
+        "event_id": "E024",
+        "event_name": "Intro to APIs",
+        "available_slots": 24
+    },
+    {
+        "event_id": "E025",
+        "event_name": "REST API Design",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E026",
+        "event_name": "Data Storytelling",
+        "available_slots": 28
+    },
+    {
+        "event_id": "E027",
+        "event_name": "Cloud 101 (AWS)",
+        "available_slots": 32
+    },
+    {
+        "event_id": "E028",
+        "event_name": "Azure for Beginners",
+        "available_slots": 15
+    },
+    {
+        "event_id": "E029",
+        "event_name": "Google Cloud Bootcamp",
+        "available_slots": 20
+    },
+    {
+        "event_id": "E030",
+        "event_name": "DevOps Essentials",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E031",
+        "event_name": "Docker Demystified",
+        "available_slots": 22
+    },
+    {
+        "event_id": "E032",
+        "event_name": "Kubernetes Workshop",
+        "available_slots": 18
+    },
+    {
+        "event_id": "E033",
+        "event_name": "Python for Web Scraping",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E034",
+        "event_name": "Natural Language Processing",
+        "available_slots": 27
+    },
+    {
+        "event_id": "E035",
+        "event_name": "Computer Vision Crash Course",
+        "available_slots": 20
+    },
+    {
+        "event_id": "E036",
+        "event_name": "ChatGPT Prompt Engineering",
+        "available_slots": 45
+    },
+    {
+        "event_id": "E037",
+        "event_name": "AI Tools for Productivity",
+        "available_slots": 38
+    },
+    {
+        "event_id": "E038",
+        "event_name": "Python Games with Pygame",
+        "available_slots": 26
+    },
+    {
+        "event_id": "E039",
+        "event_name": "Data Engineering Basics",
+        "available_slots": 30
+    },
+    {
+        "event_id": "E040",
+        "event_name": "Pandas & NumPy Deep Dive",
+        "available_slots": 35
+    },
+    {
+        "event_id": "E041",
+        "event_name": "SciKit Learn in Practice",
+        "available_slots": 40
+    },
+    {
+        "event_id": "E042",
+        "event_name": "AI Ethics & Safety",
+        "available_slots": 20
+    },
+    {
+        "event_id": "E043",
+        "event_name": "Cybersecurity Essentials",
+        "available_slots": 15
+    },
+    {
+        "event_id": "E044",
+        "event_name": "Python Scripting for Automation",
+        "available_slots": 29
+    },
+    {
+        "event_id": "E045",
+        "event_name": "Data Cleaning in Python",
+        "available_slots": 33
+    },
+    {
+        "event_id": "E046",
+        "event_name": "Intro to R Programming",
+        "available_slots": 22
+    },
+    {
+        "event_id": "E047",
+        "event_name": "Blockchain Basics",
+        "available_slots": 25
+    },
+    {
+        "event_id": "E048",
+        "event_name": "IoT for Beginners",
+        "available_slots": 28
+    },
+    {
+        "event_id": "E049",
+        "event_name": "Quantum Computing Intro",
+        "available_slots": 12
+    },
+    {
+        "event_id": "E050",
+        "event_name": "Python Project Showcase",
+        "available_slots": 50
+    }
+]
