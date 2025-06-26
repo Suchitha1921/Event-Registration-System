@@ -49,29 +49,3 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs — for the interactive API Swagger UI
 
 ---
-
-## ✅ Features
-
-📂 Register and track event participation in real-time  
-✅ Input validation using Pydantic models  
-🧠 File storage using JSON (events) and CSV (registrations)  
-🚀 Testable API with built-in Swagger UI  
-🛠️ Ready for future extensions (databases, auth, etc.)
-
----
-
-## 👨‍💻 Team Members
-
-Shoutout to my awesome teammates who made this possible:  
-- [@KataruShreya](https://github.com/KataruShreya)  
-- [@Suryaprakashrathinam](https://github.com/Suryaprakashrathinam)
-
-🤝 Collaboration, clean logic, and shared learning made this a true highlight of our 30-day journey!
-
----
-
-## 📸 Output / Demo
-
-![Event Registration App Screenshot](https://github.com/user-attachments/assets/b9572c9b-4ee0-410f-ba61-7d2a593880fe/Screenshot%20(338).png)
-
-
