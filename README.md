@@ -37,6 +37,7 @@ cd Event-Registration-System
 # 2️⃣ Create and activate a virtual environment
 python -m venv env
 source env/bin/activate  # For Windows: env\Scripts\activate
+![Screenshot (338)](https://github.com/user-attachments/assets/9847ad1d-df0c-4a19-a7ea-00f614500a4f)
 
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
@@ -46,3 +47,30 @@ uvicorn main:app --reload
 
 🧭 Open your browser and go to:
 http://127.0.0.1:8000/docs — for the interactive API Swagger UI
+
+
+## ✅ Features
+
+📂 Register and track event participation in real-time  
+✅ Input validation using Pydantic models  
+🧠 File storage using JSON (events) and CSV (registrations)  
+🚀 Testable API with built-in Swagger UI  
+🛠️ Ready for future extensions (databases, auth, etc.)
+
+---
+
+## 👨‍💻 Team Members
+
+Shoutout to my awesome teammates who made this possible:  
+- [@KataruShreya](https://github.com/KataruShreya)  
+- [@Suryaprakashrathinam](https://github.com/Suryaprakashrathinam)
+
+🤝 Collaboration, clean logic, and shared learning made this a true highlight of our 30-day journey!
+
+---
+
+## 📸 Output / Demo
+
+![Event Registration App Screenshot](https://github.com/user-attachments/assets/b9572c9b-4ee0-410f-ba61-7d2a593880fe/Screenshot%20(338).png)
+
+
