@@ -70,7 +70,4 @@ Shoutout to my awesome teammates who made this possible:
 
 ---
 
-## 📸 Output / Demo
-
-![Screenshot (338)](https://github.com/user-attachments/assets/7a228eba-c92c-4a4a-b6bd-17086411a73f)
 
