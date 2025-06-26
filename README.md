@@ -48,6 +48,8 @@ uvicorn main:app --reload
 🧭 Open your browser and go to:
 http://127.0.0.1:8000/docs — for the interactive API Swagger UI
 
+---
+
 ## ✅ Features
 
 📂 Register and track event participation in real-time  
